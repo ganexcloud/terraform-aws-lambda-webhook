@@ -17,7 +17,7 @@ Create an Api Gateway to trigger lambda function.
 
 | Name | Version |
 |------|---------|
-| <a name="provider_aws"></a> [aws](#provider\_aws) | 6.58.0 |
+| <a name="provider_aws"></a> [aws](#provider\_aws) | >= 3.63 |
 
 ## Modules
 
