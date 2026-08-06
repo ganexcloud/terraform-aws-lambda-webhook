@@ -1,3 +1,7 @@
+## Compatibility
+
+This module requires Terraform 0.13.1 or later. Older Terraform versions are not supported.
+
 <!-- BEGIN_TF_DOCS -->
 
 Create an Api Gateway to trigger lambda function.
